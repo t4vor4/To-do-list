@@ -18,8 +18,8 @@ $iten_line: #382B63;
 $remove-button: #4F4379;
 $remove-all-button: #4F4379;
 $adiciona-button: #356B69;
-$imgs-url: "/src/img/";
-$bg-pattern: url(#{$imgs-url}bg_pattern.svg);
+//$imgs-url: "/img/"; //"/src/img/";
+$bg-pattern: url("https://raw.githubusercontent.com/t4vor4/To-do-list/3e2b09146e6bb738a9fa4d143370d3a52fe657ce/public/img/bg_pattern.svg");//url(#{$imgs-url}bg_pattern.svg);
 
 body {
   font-family: "Montserrat", sans-serif;
